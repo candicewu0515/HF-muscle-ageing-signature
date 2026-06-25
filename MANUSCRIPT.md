@@ -272,9 +272,8 @@ immune-cell signatures.
 
 ## Data & code availability
 All GEO accessions listed above. The complete deterministic pipeline
-(`scripts/00..17` + `run_all.R`) and intermediate results are available at
-https://github.com/candicewu0515/HF-muscle-ageing-signature (made public on
-publication; available to reviewers on request).
+(`scripts/00..17` + `run_all.R`) and intermediate results are publicly available at
+https://github.com/candicewu0515/HF-muscle-ageing-signature.
 
 ## References
 
