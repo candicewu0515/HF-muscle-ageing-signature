@@ -262,7 +262,7 @@ immune-cell signatures.
 
 **Ethics approval and consent** Not applicable. This study is a secondary analysis of publicly available, de-identified gene-expression datasets from the NCBI Gene Expression Omnibus; the original studies obtained the relevant ethics approvals and informed consent.
 
-**Data availability** All primary data are publicly available from the NCBI Gene Expression Omnibus: GSE57338, GSE5406, GSE8479, GSE1428, GSE25941, GSE9103, GSE38718, GSE28392 (bulk expression); GSE183852 and GSE167186 and the CZ CELLxGENE Census v2023-12-15 (single-cell). The complete, deterministic analysis pipeline (`scripts/00–17`, `run_all.R`) and intermediate results are available from the corresponding author on reasonable request / [repository link to be inserted].
+**Data availability** All primary data are publicly available from the NCBI Gene Expression Omnibus: GSE57338, GSE5406, GSE8479, GSE1428, GSE25941, GSE9103, GSE38718, GSE28392 (bulk expression); GSE183852 and GSE167186 and the CZ CELLxGENE Census v2023-12-15 (single-cell). The complete, deterministic analysis pipeline (`scripts/00–17`, `run_all.R`) and intermediate results are available at https://github.com/candicewu0515/HF-muscle-ageing-signature (made publicly accessible upon publication; available to reviewers on request).
 
 **Author contributions** [Author One] conceived and designed the study, performed the analyses and drafted the manuscript. [Author Two] contributed to interpretation and revision. All authors read and approved the final manuscript.
 

@@ -271,8 +271,10 @@ Census v2023-12-15 (human heart 1.78M cells; musculature 0.12M) by streaming the
 immune-cell signatures.
 
 ## Data & code availability
-All GEO accessions listed above; deterministic pipeline `scripts/00..17` +
-`run_all.R`; robustness in `results/13_robust`, `14_hard`, `15_meta`, `17_clipnull`.
+All GEO accessions listed above. The complete deterministic pipeline
+(`scripts/00..17` + `run_all.R`) and intermediate results are available at
+https://github.com/candicewu0515/HF-muscle-ageing-signature (made public on
+publication; available to reviewers on request).
 
 ## References
 
