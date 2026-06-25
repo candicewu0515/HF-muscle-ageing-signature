@@ -1,8 +1,8 @@
-‹Full Name›
-‹Department, Institution›
-‹Postal address›
+Xia Wu
+Department of Internal Medicine, Carver College of Medicine, University of Iowa
+Iowa City, IA, USA
 
-‹Date›
+25 June 2026
 
 To the Editor-in-Chief
 **Genes & Genomics**
@@ -23,6 +23,6 @@ Thank you for considering our manuscript. We look forward to your response.
 
 Sincerely,
 
-‹Full Name›
-‹Department, Institution›
-E-mail: candicewu0515@gmail.com
+Xia Wu
+Department of Internal Medicine, Carver College of Medicine, University of Iowa
+E-mail: xwu76@uiowa.edu; ORCID iD: 0009-0006-9852-812X

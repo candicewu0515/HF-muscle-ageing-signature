@@ -2,11 +2,11 @@
 
 **Running title:** Shared HF–muscle ageing signature
 
-**Author:** ‹FULL NAME›
+**Author:** Xia Wu¹*
 
-**Affiliation:** ‹Department, Institution, City, Country›
+**Affiliation:** ¹Department of Internal Medicine, Carver College of Medicine, University of Iowa, Iowa City, IA, USA
 
-**Corresponding author:** ‹Full Name›, ‹Department, Institution, full postal address›; e-mail: candicewu0515@gmail.com; ORCID: ‹0000-0000-0000-0000›
+**Corresponding author (\*):** Xia Wu, Department of Internal Medicine, Carver College of Medicine, University of Iowa, Iowa City, IA, USA; e-mail: xwu76@uiowa.edu; ORCID iD: 0009-0006-9852-812X
 
 *Manuscript type: Research Article. Submitted to Genes & Genomics.*
 
