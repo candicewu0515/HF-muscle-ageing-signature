@@ -1,0 +1,4 @@
+"metric","value"
+"AUC_ischemic_vs_NF",0.961222910216717
+"AUC_dilated_vs_NF",0.968615494978479
+"etiology_logFC_spearman",0.920432284010676

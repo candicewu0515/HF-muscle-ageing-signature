@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="980" viewBox="0 0 900 980" font-family="Helvetica,Arial,sans-serif">
+  <style>
+    .box{rx:8;stroke-width:1.5;}
+    .t{font-size:13px;fill:#1a1a1a;}
+    .tb{font-size:14px;font-weight:700;fill:#111;}
+    .ts{font-size:11px;fill:#555;}
+    .stage{font-size:12px;font-weight:700;fill:#666;}
+    .arr{stroke:#888;stroke-width:2;fill:none;marker-end:url(#a);}
+  </style>
+  <defs><marker id="a" markerWidth="9" markerHeight="9" refX="6" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L6,3 L0,6 z" fill="#888"/></marker></defs>
+  <rect x="0" y="0" width="900" height="980" fill="#fff"/>
+  <text x="450" y="30" text-anchor="middle" class="tb" font-size="17">Study design — shared cardiac–skeletal-muscle ageing signature in heart failure</text>
+
+  <!-- inputs -->
+  <text x="60" y="66" class="stage">DATA</text>
+  <rect x="60" y="74" width="360" height="74" class="box" fill="#fdecea" stroke="#e07a6a"/>
+  <text x="80" y="98" class="tb">Heart failure — LV myocardium</text>
+  <text x="80" y="118" class="t">Discovery GSE57338 (177 HF / 136 NF)</text>
+  <text x="80" y="136" class="ts">External: GSE5406 · etiology + age covariates</text>
+  <rect x="480" y="74" width="360" height="74" class="box" fill="#e9f1fb" stroke="#5a86c4"/>
+  <text x="500" y="98" class="tb">Ageing skeletal muscle</text>
+  <text x="500" y="118" class="t">Discovery GSE8479 (25 old / 26 young)</text>
+  <text x="500" y="136" class="ts">Validation: 5 cohorts, N=134 (meta-AUC)</text>
+
+  <!-- per-tissue analysis -->
+  <line x1="240" y1="148" x2="240" y2="178" class="arr"/>
+  <line x1="660" y1="148" x2="660" y2="178" class="arr"/>
+  <text x="60" y="200" class="stage">PER-TISSUE</text>
+  <rect x="60" y="208" width="360" height="56" class="box" fill="#f6f6f6" stroke="#aaa"/>
+  <text x="80" y="232" class="t">limma DEG (BH&lt;0.05, |log2FC|&gt;0.378) · 921 genes</text>
+  <text x="80" y="252" class="t">signed WGCNA module (r=−0.88)</text>
+  <rect x="480" y="208" width="360" height="56" class="box" fill="#f6f6f6" stroke="#aaa"/>
+  <text x="500" y="232" class="t">limma DEG · 610 genes</text>
+  <text x="500" y="252" class="t">signed WGCNA module (r=−0.83)</text>
+
+  <!-- shared set -->
+  <line x1="240" y1="264" x2="380" y2="300" class="arr"/>
+  <line x1="660" y1="264" x2="520" y2="300" class="arr"/>
+  <text x="60" y="320" class="stage">INTEGRATE</text>
+  <rect x="250" y="300" width="400" height="62" class="box" fill="#eafaf1" stroke="#4caf7d"/>
+  <text x="450" y="324" text-anchor="middle" class="tb">Shared set: 59 DEGs (hypergeometric p=1×10⁻³)</text>
+  <text x="450" y="346" text-anchor="middle" class="t">direction-concordant core = 26 (panel-selection criterion)</text>
+
+  <!-- ML panel -->
+  <line x1="450" y1="362" x2="450" y2="392" class="arr"/>
+  <rect x="250" y="392" width="400" height="56" class="box" fill="#fff6e6" stroke="#e0a93a"/>
+  <text x="450" y="416" text-anchor="middle" class="tb">6 ML selectors → 11-hub exploratory panel</text>
+  <text x="450" y="436" text-anchor="middle" class="ts">low-effect (perm p=0.075; threshold-dependent)</text>
+
+  <!-- signature -->
+  <line x1="450" y1="448" x2="450" y2="478" class="arr"/>
+  <rect x="250" y="478" width="400" height="44" class="box" fill="#eef0ff" stroke="#6a6ad0"/>
+  <text x="450" y="506" text-anchor="middle" class="tb">Directional signature score (platform-independent)</text>
+
+  <!-- validation row -->
+  <line x1="450" y1="522" x2="450" y2="552" class="arr"/>
+  <text x="60" y="572" class="stage">VALIDATE</text>
+  <rect x="60" y="560" width="250" height="86" class="box" fill="#fdecea" stroke="#e07a6a"/>
+  <text x="185" y="584" text-anchor="middle" class="tb">HF external</text>
+  <text x="185" y="606" text-anchor="middle" class="t">AUC 0.92 (0.81–1.0)</text>
+  <text x="185" y="626" text-anchor="middle" class="ts">age-adj 0.95 · etiology-robust</text>
+  <rect x="325" y="560" width="250" height="86" class="box" fill="#e9f1fb" stroke="#5a86c4"/>
+  <text x="450" y="584" text-anchor="middle" class="tb">Muscle meta (5 cohorts)</text>
+  <text x="450" y="606" text-anchor="middle" class="t">pooled AUC 0.76 (0.61–0.86)</text>
+  <text x="450" y="626" text-anchor="middle" class="ts">I²=0% · ageing-linked</text>
+  <rect x="590" y="560" width="250" height="86" class="box" fill="#f6f6f6" stroke="#aaa"/>
+  <text x="715" y="584" text-anchor="middle" class="tb">Robustness</text>
+  <text x="715" y="606" text-anchor="middle" class="ts">permutation · threshold</text>
+  <text x="715" y="626" text-anchor="middle" class="ts">age · etiology · senescence</text>
+
+  <!-- regulation + single cell -->
+  <line x1="450" y1="646" x2="450" y2="676" class="arr"/>
+  <text x="60" y="696" class="stage">MECHANISM</text>
+  <rect x="120" y="684" width="320" height="92" class="box" fill="#f3ecfb" stroke="#9a6fc0"/>
+  <text x="280" y="708" text-anchor="middle" class="tb">CLIP-supported regulation</text>
+  <text x="280" y="730" text-anchor="middle" class="t">ENCORI clipExpNum≥3 · ChEA3 TFs</text>
+  <text x="280" y="750" text-anchor="middle" class="ts">miR-15/16→CCND1 hypothesis</text>
+  <text x="280" y="768" text-anchor="middle" class="ts">(length/coverage bias noted)</text>
+  <rect x="460" y="684" width="320" height="92" class="box" fill="#eafaf1" stroke="#4caf7d"/>
+  <text x="620" y="708" text-anchor="middle" class="tb">Single-cell localisation</text>
+  <text x="620" y="730" text-anchor="middle" class="t">CELLxGENE Census (1.9M cells)</text>
+  <text x="620" y="750" text-anchor="middle" class="ts">NAMPT→myeloid · FBLN1→stroma</text>
+  <text x="620" y="768" text-anchor="middle" class="ts">in both tissues</text>
+
+  <!-- conclusion -->
+  <line x1="450" y1="776" x2="450" y2="806" class="arr"/>
+  <rect x="120" y="806" width="660" height="58" class="box" fill="#fff" stroke="#333" stroke-width="2"/>
+  <text x="450" y="830" text-anchor="middle" class="tb">Hypothesis-generating map of a candidate HF–muscle ageing axis</text>
+  <text x="450" y="850" text-anchor="middle" class="ts">remodelling + NAD/immune metabolism · HF arm age-robust, muscle arm ageing-linked</text>
+
+  <text x="450" y="900" text-anchor="middle" class="ts">All steps deterministic (scripts/00–17, run_all.R). NF, non-failing.</text>
+</svg>

@@ -1,0 +1,8 @@
+"metric","value"
+"median_age_HF",58
+"median_age_ctrl",52
+"age_diff_p",1.35814003545552e-05
+"AUC_age_alone",0.643382352941177
+"AUC_signature",0.964647723496179
+"AUC_signature_age_adjusted",0.95318212030575
+"signature_p_adjusted_for_age",1.78668037452167e-18

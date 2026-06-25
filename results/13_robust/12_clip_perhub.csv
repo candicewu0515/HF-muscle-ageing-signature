@@ -1,0 +1,7 @@
+gene,edges,n_miR,max_clip,utr3_len,pct_of_edges
+CCND1,312,204,67,3192,71.6
+NAMPT,60,51,11,4110,13.8
+FBLN1,32,32,8,709,7.3
+PPM1K,20,20,14,4975,4.6
+MAGED2,7,6,7,325,1.6
+EIF4EBP1,5,5,5,430,1.1

@@ -1,0 +1,398 @@
+[2026-06-25 11:24:43] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:24:43] 00 | active diseases: HF, SAR 
+[2026-06-25 11:24:43] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:24:43] 00 | config loaded. MODE=single  DISEASE=HF 
+[2026-06-25 11:24:43] 00 | active diseases: HF 
+[2026-06-25 11:24:43] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:25:17] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:25:17] 00 | active diseases: HF, SAR 
+[2026-06-25 11:25:17] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:26:21] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:26:21] 00 | active diseases: HF, SAR 
+[2026-06-25 11:26:21] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:27:40] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:27:40] 00 | active diseases: HF, SAR 
+[2026-06-25 11:27:40] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:27:43] 01 | fetch HF/GSE57338 
+[2026-06-25 11:27:55] 01 |   GSE57338 genes=20254 samples=313 | control=136 case=177 
+[2026-06-25 11:27:58] 01 | fetch HF/GSE5406 
+[2026-06-25 11:28:05] 01 |   GSE5406 genes=13237 samples=210 | control=16 case=194 
+[2026-06-25 11:28:06] 01 | fetch HF/GSE116250 
+[2026-06-25 11:28:53] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:28:53] 00 | active diseases: HF, SAR 
+[2026-06-25 11:28:53] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:28:56] 01 | fetch HF/GSE57338 
+[2026-06-25 11:29:06] 01 |   GSE57338 genes=20254 samples=313 | control=136 case=177 
+[2026-06-25 11:29:09] 01 | fetch HF/GSE5406 
+[2026-06-25 11:29:13] 01 |   GSE5406 genes=13237 samples=210 | control=16 case=194 
+[2026-06-25 11:29:14] 01 | fetch HF/GSE116250 
+[2026-06-25 11:29:15] 01 |   !! HF/GSE116250 FAILED: missing value where TRUE/FALSE needed 
+[2026-06-25 11:29:15] 01 | fetch SAR/GSE8479 
+[2026-06-25 11:29:16] 01 |   !! no symbol annotation for GSE8479 
+[2026-06-25 11:29:16] 01 | fetch SAR/GSE1428 
+[2026-06-25 11:29:17] 01 |   GSE1428 genes=13237 samples=22 | control=10 case=12 
+[2026-06-25 11:29:18] 01 | fetch SAR/GSE25941 
+[2026-06-25 11:29:25] 01 |   GSE25941 genes=22880 samples=36 | control=15 case=21 
+[2026-06-25 11:29:25] 01 | 01 done. 
+[2026-06-25 11:30:51] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:30:51] 00 | active diseases: HF, SAR 
+[2026-06-25 11:30:51] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:30:53] 01 | fetch HF/GSE57338 
+[2026-06-25 11:31:04] 01 |   GSE57338 genes=20254 samples=313 | control=136 case=177 
+[2026-06-25 11:31:07] 01 | fetch HF/GSE5406 
+[2026-06-25 11:31:11] 01 |   GSE5406 genes=13237 samples=210 | control=16 case=194 
+[2026-06-25 11:31:12] 01 | fetch SAR/GSE8479 
+[2026-06-25 11:31:15] 01 |   GSE8479 genes=16456 samples=51 | control=26 case=25 
+[2026-06-25 11:31:15] 01 | fetch SAR/GSE1428 
+[2026-06-25 11:31:16] 01 |   GSE1428 genes=13237 samples=22 | control=10 case=12 
+[2026-06-25 11:31:16] 01 | fetch SAR/GSE25941 
+[2026-06-25 11:31:20] 01 |   GSE25941 genes=22880 samples=36 | control=15 case=21 
+[2026-06-25 11:31:20] 01 | 01 done. 
+[2026-06-25 11:31:35] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:31:35] 00 | active diseases: HF, SAR 
+[2026-06-25 11:31:35] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:31:36] 02 | HF/GSE57338 DEG up=27 down=23 (|logFC|>1, padj<0.05) 
+[2026-06-25 11:31:37] 02 | SAR/GSE8479 DEG up=6 down=3 (|logFC|>1, padj<0.05) 
+[2026-06-25 11:31:37] 02 | 02 done. 
+[2026-06-25 11:32:09] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:32:09] 00 | active diseases: HF, SAR 
+[2026-06-25 11:32:09] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:32:10] 02 | HF/GSE57338 DEG up=156 down=138 (|logFC|>0.585, padj<0.05) 
+[2026-06-25 11:32:10] 02 | SAR/GSE8479 DEG up=84 down=50 (|logFC|>0.585, padj<0.05) 
+[2026-06-25 11:32:11] 02 | 02 done. 
+[2026-06-25 11:32:54] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:32:54] 00 | active diseases: HF, SAR 
+[2026-06-25 11:32:54] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:32:57] 03 | HF WGCNA input 313 samples x 5000 genes 
+[2026-06-25 11:33:42] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:33:42] 00 | active diseases: HF, SAR 
+[2026-06-25 11:33:42] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:33:44] 03 | HF WGCNA input 313 samples x 5000 genes 
+[2026-06-25 11:33:46] 03 | HF soft power = 12 (R2 target 0.85) 
+[2026-06-25 11:33:51] 03 | HF modules: 18 (grey,turquoise,blue largest) 
+[2026-06-25 11:33:52] 03 | HF disease module(s): green+brown | r=-0.88,0.74 | genes=854 
+[2026-06-25 11:33:52] 03 | SAR WGCNA input 51 samples x 5000 genes 
+[2026-06-25 11:33:55] 03 | SAR soft power = 14 (R2 target 0.85) 
+[2026-06-25 11:33:59] 03 | SAR modules: 19 (grey,turquoise,blue largest) 
+[2026-06-25 11:33:59] 03 | SAR disease module(s): turquoise+greenyellow | r=-0.83,0.78 | genes=864 
+[2026-06-25 11:33:59] 03 | 03 done. 
+[2026-06-25 11:34:47] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:34:47] 00 | active diseases: HF, SAR 
+[2026-06-25 11:34:47] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:34:47] 04 | setHF(DEG∩mod)=120 setSAR(DEG∩mod)=52 SHARED=1 
+[2026-06-25 11:34:47] 04 | shared concordant(same direction in both) = 0/1 
+[2026-06-25 11:34:47] 04 | 04 done. shared=1 
+[2026-06-25 11:36:49] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:36:49] 00 | active diseases: HF, SAR 
+[2026-06-25 11:36:49] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:36:50] 02 | HF/GSE57338 DEG up=516 down=405 (|logFC|>0.378, padj<0.05) 
+[2026-06-25 11:36:50] 02 | SAR/GSE8479 DEG up=338 down=272 (|logFC|>0.378, padj<0.05) 
+[2026-06-25 11:36:51] 02 | 02 done. 
+[2026-06-25 11:36:51] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:36:51] 00 | active diseases: HF, SAR 
+[2026-06-25 11:36:51] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:36:51] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 11:36:51] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 11:36:52] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 11:37:49] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:37:49] 00 | active diseases: HF, SAR 
+[2026-06-25 11:37:49] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:37:53] 05 | enrichment on 59 shared genes (59 mapped) 
+[2026-06-25 11:38:12] 05 |   GO_BP: none 
+[2026-06-25 11:38:18] 05 |   GO_MF: none 
+[2026-06-25 11:38:24] 05 |   GO_CC: 5 terms (q<0.05) 
+[2026-06-25 11:38:33] 05 |   KEGG: 4 terms (q<0.05) 
+[2026-06-25 11:38:49] 05 |   Reactome: 1 terms (q<0.05) 
+[2026-06-25 11:39:07] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:39:07] 00 | active diseases: HF, SAR 
+[2026-06-25 11:39:07] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:39:10] 06 | ML features = 26 concordant core genes 
+[2026-06-25 11:39:14] 06 | HF ML done (6 methods active); >=3 votes: 20 genes 
+[2026-06-25 11:39:15] 06 | SAR ML done (6 methods active); >=3 votes: 13 genes 
+[2026-06-25 11:39:15] 06 | SHARED HUB genes (>=3 votes in BOTH): 11 -> EIF4EBP1, PITPNM1, MAGED2, NUDT4, MTFP1, PPM1K, NAMPT, CCND1, FBLN1, ERAP2, CENPV 
+[2026-06-25 11:39:15] 06 | 06 done. 
+[2026-06-25 11:39:55] 05 | PPI: 34 nodes, 51 edges. top hubs: TIMP1,C1QB,CCND1,F13A1,LUM,FBLN1 
+[2026-06-25 11:39:55] 05 | 05 done. 
+[2026-06-25 11:41:00] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:41:00] 00 | active diseases: HF, SAR 
+[2026-06-25 11:41:00] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:41:01] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:41:30] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:41:30] 00 | active diseases: HF, SAR 
+[2026-06-25 11:41:30] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:41:31] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:42:03] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:42:03] 00 | active diseases: HF, SAR 
+[2026-06-25 11:42:03] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:42:04] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:42:05] 07 | HF common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:42:26] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:42:26] 00 | active diseases: HF, SAR 
+[2026-06-25 11:42:26] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:42:27] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:42:27] 07 | HF common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:43:13] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:43:13] 00 | active diseases: HF, SAR 
+[2026-06-25 11:43:13] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:43:14] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:43:15] 07 | HF common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:43:15] 07 | HF/GSE5406 panel AUC=0.908 (0.805-1) n=210 genes=8 
+[2026-06-25 11:43:16] 07 | SAR common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:43:16] 07 | SAR/GSE1428 panel AUC=0.571 (0.318-0.824) n=22 genes=8 
+[2026-06-25 11:43:16] 07 | SAR/GSE25941 panel AUC=0.533 (0.468-0.599) n=36 genes=8 
+[2026-06-25 11:43:16] 07 | 07 done. 
+[2026-06-25 11:44:49] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:44:49] 00 | active diseases: HF, SAR 
+[2026-06-25 11:44:49] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:44:50] 07 | diagnostic panel = 11 hub genes 
+[2026-06-25 11:44:51] 07 | HF common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:44:51] 07 | HF/GSE5406 panel AUC=0.917 (0.808-1) n=210 genes=8 
+[2026-06-25 11:44:51] 07 | SAR common panel (8/11 hubs): EIF4EBP1,PITPNM1,MAGED2,NUDT4,NAMPT,CCND1,FBLN1,ERAP2 
+[2026-06-25 11:44:52] 07 | SAR/GSE1428 panel AUC=0.642 (0.387-0.896) n=22 genes=8 
+[2026-06-25 11:44:52] 07 | SAR/GSE25941 panel AUC=0.721 (0.543-0.898) n=36 genes=8 
+[2026-06-25 11:44:52] 07 | 07 done. 
+[2026-06-25 11:46:31] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:46:31] 00 | active diseases: HF, SAR 
+[2026-06-25 11:46:31] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:46:31] 10 | CLIP-miRNA on 11 hub genes (clipExpNum >= 3) 
+[2026-06-25 11:46:50] 10 | ENCORI raw edges: 1257 
+[2026-06-25 11:46:50] 10 | CLIP-anchored miRNA->hub edges (clipExpNum>=3): 436 | miRNAs=271 
+[2026-06-25 11:46:54] 10 | miRNA->hub edges also in miRTarBase/TarBase: 257/436 
+[2026-06-25 11:46:57] 10 | ChEA3 TF->hub edges: 47 | TFs=15 
+[2026-06-25 11:46:57] 10 | network: 219 nodes (11 hub, 193 miRNA, 15 TF), 404 edges 
+[2026-06-25 11:46:57] 10 | 10 done. 
+[2026-06-25 11:47:16] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:47:16] 00 | active diseases: HF, SAR 
+[2026-06-25 11:47:16] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:47:20] 05 | enrichment on 59 shared genes (59 mapped) 
+[2026-06-25 11:47:40] 05 |   GO_BP: none 
+[2026-06-25 11:47:45] 05 |   GO_MF: none 
+[2026-06-25 11:47:52] 05 |   GO_CC: 6 terms (q<0.05) 
+[2026-06-25 11:47:57] 05 |   KEGG: 4 terms (q<0.05) 
+[2026-06-25 11:48:14] 05 |   Reactome: 1 terms (q<0.05) 
+[2026-06-25 11:48:15] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:48:15] 00 | active diseases: HF, SAR 
+[2026-06-25 11:48:15] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:48:22] 08 | HF ssGSEA: 22 immune signatures x 313 samples 
+[2026-06-25 11:48:23] 08 | HF immune: 17 cell types differ (p<0.05) 
+[2026-06-25 11:48:23] 08 | SAR ssGSEA: 22 immune signatures x 51 samples 
+[2026-06-25 11:48:23] 08 | SAR immune: 5 cell types differ (p<0.05) 
+[2026-06-25 11:48:23] 08 | 08 done. 
+[2026-06-25 11:48:49] 05 | PPI: 34 nodes, 51 edges. top hubs: TIMP1,C1QB,CCND1,F13A1,LUM,FBLN1 
+[2026-06-25 11:48:49] 05 | 05 done. 
+[2026-06-25 11:51:30] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:51:30] 00 | active diseases: HF, SAR 
+[2026-06-25 11:51:30] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:51:30] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 11:51:30] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 11:51:30] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 11:51:30] 00 | active diseases: HF, SAR 
+[2026-06-25 11:51:30] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 11:51:31] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 11:51:31] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 11:51:31] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 11:51:31] RUN | <<< step 04 OK (1.3s) 
+[2026-06-25 11:51:31] RUN | === run_all DONE === 
+[2026-06-25 11:54:55] 09 | scRNA hub localization via Census 2023-12-15; 11 hubs
+[2026-06-25 11:55:06] 09 | heart: 1,776,351 cells, 70 cell types; top: cardiac muscle cell(284321), regular ventricular cardiac myocyte(208662), mural cell(179000), fibroblast of cardiac tissue(170070), endothelial cell(145334)
+[2026-06-25 12:01:42] 09 | scRNA hub localization via Census 2023-12-15; 11 hubs
+[2026-06-25 12:01:54] 09 | heart: 1,776,351 cells, 70 cell types; top: cardiac muscle cell(284321), regular ventricular cardiac myocyte(208662), mural cell(179000), fibroblast of cardiac tissue(170070), endothelial cell(145334)
+[2026-06-25 12:01:54] 09 | heart: subsampled 97,735 cells across 58 cell types (<= 2000/type)
+[2026-06-25 12:06:48] 09 | scRNA hub localization via Census 2023-12-15; 11 hubs
+[2026-06-25 12:07:00] 09 | heart: 1,776,351 cells, 70 cell types; top: cardiac muscle cell(284321), regular ventricular cardiac myocyte(208662), mural cell(179000), fibroblast of cardiac tissue(170070), endothelial cell(145334)
+[2026-06-25 12:07:00] 09 | heart: subsampled 43,862 cells across 58 cell types (<= 800/type)
+[2026-06-25 12:15:28] 09 | scRNA hub localization via Census 2023-12-15 (streaming); 11 hubs
+[2026-06-25 12:15:41] 09 | heart: 1,776,351 cells, 70 cell types (58 with >=200); streaming X for 11 hubs
+[2026-06-25 12:22:05] 09 | scRNA hub localization via Census 2023-12-15 (streaming); 11 hubs
+[2026-06-25 12:22:19] 09 | heart: 1,776,351 cells, 70 cell types (58 with >=200); streaming X (vectorized) for 11 hubs
+[2026-06-25 12:32:35] 09 | heart: wrote table (58 cell types x 11 hubs)
+[2026-06-25 12:32:35] 09 | heart: dotplot saved (25 cell types shown)
+[2026-06-25 12:32:39] 09 | muscle: 119,450 cells, 74 cell types (28 with >=200); streaming X (vectorized) for 11 hubs
+[2026-06-25 12:33:12] 09 | muscle: wrote table (28 cell types x 11 hubs)
+[2026-06-25 12:33:12] 09 | muscle: dotplot saved (25 cell types shown)
+[2026-06-25 12:33:13] 09 | 09 done.
+[2026-06-25 13:08:15] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:08:15] 00 | active diseases: HF, SAR 
+[2026-06-25 13:08:15] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:09:56] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:09:56] 00 | active diseases: HF, SAR 
+[2026-06-25 13:09:56] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:09:56] 11 | Enrichr list id=131422841 (59 shared genes) 
+[2026-06-25 13:09:57] 11 | DSigDB drugs: 1221 ; sig(adjP<0.05): 276 ; top: Arsenenous acid CTD 00000922 | progesterone CTD 00006624 | Retinoic acid CTD 00006918 | phenoxybenzamine PC3 UP | mefloquine PC3 UP 
+[2026-06-25 13:09:57] 11 | docking plan: 30 drug-hub pairs across 8 hub targets (run vina/MD downstream) 
+[2026-06-25 13:09:57] 11 | 11 done. (DSigDB only; docking/MD deferred — tools absent, MD infeasible in-session) 
+[2026-06-25 13:13:22] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:13:22] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:13:22] 00 | active diseases: HF, SAR 
+[2026-06-25 13:13:22] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:13:22] 00 | active diseases: HF, SAR 
+[2026-06-25 13:13:22] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:13:22] 12 | (a) overlap=59 hyperP=0.00101 | concordant=26/59 binomP=0.873 (null rate 0.51) 
+[2026-06-25 13:13:22] 13 | HF nested-CV AUC=0.962 (0.955-0.965) vs optimistic internal 
+[2026-06-25 13:13:22] 13 | SAR nested-CV AUC=0.996 (0.973-1) vs optimistic internal 
+[2026-06-25 13:13:22] 13 | 13 nested-CV done. 
+[2026-06-25 13:14:40] 12 | (b) ML 3-method vote: observed 9 shared-selected; perm null mean=6.5 p=0.0746 
+[2026-06-25 13:14:41] 12 | (c) threshold sensitivity: hub retained in shared set @logFC 0.263:11/11 0.378:11/11 0.585:0/11 1.000:0/11 
+[2026-06-25 13:15:04] 12 | (d) aging/senescence overlap: 16/26 core genes (LUM;SFRP1;DPT;MYH11;CXCL14;HSPA2;PPM1K;NAMPT;CCND1;EIF4EBP1;CENPV;ABCA8;NUDT4;ERAP2;CYBRD1;HLA-DPA1) hyperP=1.77e-11 | hubs in aging sets=7 
+[2026-06-25 13:15:17] 12 | (e) CLIP per-hub: CCND1=71.6% of edges; Spearman(edges,3'UTR len) rho=0.54 p=0.297 
+[2026-06-25 13:15:17] 12 | 12 robustness done. 
+[2026-06-25 13:18:59] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:18:59] 00 | active diseases: HF, SAR 
+[2026-06-25 13:18:59] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:18:59] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 13:18:59] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 13:18:59] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:18:59] 00 | active diseases: HF, SAR 
+[2026-06-25 13:18:59] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:19:00] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 13:19:00] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 13:19:01] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 13:19:01] RUN | <<< step 04 OK (1.5s) 
+[2026-06-25 13:19:01] RUN | === run_all DONE === 
+[2026-06-25 13:22:02] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:22:02] 00 | active diseases: HF, SAR 
+[2026-06-25 13:22:02] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:22:02] 14 | hubs=11 aging-hubs=7 non-aging hubs=4 (PITPNM1,MAGED2,MTFP1,FBLN1) 
+[2026-06-25 13:22:02] 14 | (a) HF age med=58 ctrl=52 (p=1.4e-05) | AUC age-alone=0.643 sig=0.965 sig|age-adj=0.953 sig-p-after-age=1.8e-18 
+[2026-06-25 13:22:02] 14 | (b) HF/GSE5406 AUC full(8)=0.917 non-aging(4)=0.914 (0.82-1) 
+[2026-06-25 13:22:02] 14 | (b) SAR/GSE1428 AUC full(8)=0.642 non-aging(4)=0.542 (0.285-0.799) 
+[2026-06-25 13:22:02] 14 | (b) SAR/GSE25941 AUC full(8)=0.794 non-aging(4)=0.698 (0.518-0.878) 
+[2026-06-25 13:22:02] 14 | (c) signature AUC ischemic-vs-NF=0.961 dilated-vs-NF=0.969 | ischemic-vs-dilated transcriptome rho=0.92 
+[2026-06-25 13:22:02] 14 | 14 hard-evidence done. 
+[2026-06-25 13:23:59] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:23:59] 00 | active diseases: HF, SAR 
+[2026-06-25 13:23:59] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:47:35] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:47:35] 00 | active diseases: HF, SAR 
+[2026-06-25 13:47:35] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:50:52] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:50:52] 00 | active diseases: HF, SAR 
+[2026-06-25 13:50:52] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:50:55] 15 | GSE1428 AUC=0.642 n=22 
+[2026-06-25 13:50:55] 15 | GSE25941 AUC=0.794 n=36 
+[2026-06-25 13:50:59] 15 | GSE9103 FAILED: object 'rows' not found 
+[2026-06-25 13:51:02] 15 | GSE38718 FAILED: object 'rows' not found 
+[2026-06-25 13:51:06] 15 | GSE28392 FAILED: object 'rows' not found 
+[2026-06-25 13:51:06] 15 | MUSCLE meta-AUC (random-effects, 2 cohorts, N=58): pooled=0.728 (0.52-0.868) I2=0% 
+[2026-06-25 13:51:06] 15 | 15 meta-AUC done. 
+[2026-06-25 13:52:11] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:52:11] 00 | active diseases: HF, SAR 
+[2026-06-25 13:52:11] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:52:14] 15 | GSE1428 AUC=0.642 n=22 
+[2026-06-25 13:52:14] 15 | GSE25941 AUC=0.794 n=36 
+[2026-06-25 13:52:19] 15 | GSE9103 AUC=0.83 n=20 (case=10 ctrl=10) 
+[2026-06-25 13:52:22] 15 | GSE38718 AUC=0.83 n=22 (case=8 ctrl=14) 
+[2026-06-25 13:52:27] 15 | GSE28392 AUC=0.789 n=34 (case=14 ctrl=20) 
+[2026-06-25 13:52:27] 15 | MUSCLE meta-AUC (random-effects, 5 cohorts, N=134): pooled=0.759 (0.612-0.863) I2=0% 
+[2026-06-25 13:52:27] 15 | 15 meta-AUC done. 
+[2026-06-25 13:54:44] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 13:54:44] 00 | active diseases: HF, SAR 
+[2026-06-25 13:54:44] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 13:54:45] 16 | figures: Figure2_diagnostic.png + Figure3_regulation.png + manifest 
+[2026-06-25 13:54:45] 16 | 16 figures done. 
+[2026-06-25 14:00:02] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:00:02] 00 | active diseases: HF, SAR 
+[2026-06-25 14:00:02] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:00:24] 17 | EIF4EBP1 3'UTR=430 obs=5 ctrl(len-matched) mean=0 
+[2026-06-25 14:00:49] 17 | PITPNM1 3'UTR=273 obs=0 ctrl(len-matched) mean=4.5 
+[2026-06-25 14:00:54] 17 | MAGED2 3'UTR=325 obs=6 ctrl(len-matched) mean=0 
+[2026-06-25 14:01:00] 17 | NUDT4 3'UTR=8767 obs=0 ctrl(len-matched) mean=3.5 
+[2026-06-25 14:01:04] 17 | MTFP1 3'UTR=649 obs=0 ctrl(len-matched) mean=NaN 
+[2026-06-25 14:01:10] 17 | PPM1K 3'UTR=4975 obs=20 ctrl(len-matched) mean=62.8 
+[2026-06-25 14:01:15] 17 | NAMPT 3'UTR=4110 obs=51 ctrl(len-matched) mean=1 
+[2026-06-25 14:01:21] 17 | CCND1 3'UTR=3192 obs=204 ctrl(len-matched) mean=8.8 
+[2026-06-25 14:01:26] 17 | FBLN1 3'UTR=709 obs=32 ctrl(len-matched) mean=7.3 
+[2026-06-25 14:01:32] 17 | ERAP2 3'UTR=2098 obs=0 ctrl(len-matched) mean=41.2 
+[2026-06-25 14:02:40] 17 | CENPV 3'UTR=1222 obs=0 ctrl(len-matched) mean=0 
+[2026-06-25 14:02:40] 17 | CLIP length-matched null: hub median miRNAs=5.5 vs length-matched ctrl=4 paired-Wilcoxon p=0.477 
+[2026-06-25 14:02:40] 17 | 17 CLIP null done. 
+[2026-06-25 14:04:36] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:04:36] 00 | active diseases: HF, SAR 
+[2026-06-25 14:04:36] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:04:36] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 14:04:36] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 14:04:36] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:04:36] 00 | active diseases: HF, SAR 
+[2026-06-25 14:04:36] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:04:37] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 14:04:37] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 14:04:38] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 14:04:38] RUN | <<< step 04 OK (1.4s) 
+[2026-06-25 14:04:38] RUN | === run_all DONE === 
+[2026-06-25 14:09:28] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:09:28] 00 | active diseases: HF, SAR 
+[2026-06-25 14:09:28] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:09:31] 15 | GSE1428 AUC=0.642 n=22 
+[2026-06-25 14:09:31] 15 | GSE25941 AUC=0.794 n=36 
+[2026-06-25 14:09:37] 15 | GSE9103 AUC=0.83 n=20 (case=10 ctrl=10) 
+[2026-06-25 14:09:39] 15 | GSE38718 AUC=0.83 n=22 (case=8 ctrl=14) 
+[2026-06-25 14:09:44] 15 | GSE28392 AUC=0.789 n=34 (case=14 ctrl=20) 
+[2026-06-25 14:09:44] 15 | MUSCLE meta-AUC (random-effects, 5 cohorts, N=134): pooled=0.759 (0.612-0.863) I2=0% 
+[2026-06-25 14:09:44] 15 | 15 meta-AUC done. 
+[2026-06-25 14:09:44] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:09:44] 00 | active diseases: HF, SAR 
+[2026-06-25 14:09:44] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:09:44] 16 | core subnetwork: 10 nodes, 24 edges 
+[2026-06-25 14:09:45] 16 | 16 figures done. 
+[2026-06-25 14:12:27] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:12:27] 00 | active diseases: HF, SAR 
+[2026-06-25 14:12:27] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:12:27] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 14:12:27] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 14:12:27] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:12:27] 00 | active diseases: HF, SAR 
+[2026-06-25 14:12:27] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:12:27] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 14:12:27] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 14:12:28] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 14:12:28] RUN | <<< step 04 OK (1.4s) 
+[2026-06-25 14:12:28] RUN | === run_all DONE === 
+[2026-06-25 14:23:13] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:23:13] 00 | active diseases: HF, SAR 
+[2026-06-25 14:23:13] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:23:14] 16 | core subnetwork: 10 nodes, 24 edges 
+[2026-06-25 14:23:15] 16 | 16 figures done. 
+[2026-06-25 14:23:26] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:23:26] 00 | active diseases: HF, SAR 
+[2026-06-25 14:23:26] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:23:26] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 14:23:26] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 14:23:26] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:23:26] 00 | active diseases: HF, SAR 
+[2026-06-25 14:23:26] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:23:27] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 14:23:27] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 14:23:28] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 14:23:28] RUN | <<< step 04 OK (1.5s) 
+[2026-06-25 14:23:28] RUN | === run_all DONE === 
+[2026-06-25 14:28:34] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:28:34] 00 | active diseases: HF, SAR 
+[2026-06-25 14:28:34] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:28:35] 16 | core subnetwork: 10 nodes, 24 edges 
+[2026-06-25 14:28:35] 16 | 16 figures done. 
+[2026-06-25 14:28:46] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:28:46] 00 | active diseases: HF, SAR 
+[2026-06-25 14:28:46] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:28:46] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 14:28:46] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 14:28:46] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:28:46] 00 | active diseases: HF, SAR 
+[2026-06-25 14:28:46] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:28:47] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 14:28:47] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 14:28:47] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 14:28:47] RUN | <<< step 04 OK (1.4s) 
+[2026-06-25 14:28:47] RUN | === run_all DONE === 
+[2026-06-25 14:53:12] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:53:12] 00 | active diseases: HF, SAR 
+[2026-06-25 14:53:12] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:53:12] RUN | === run_all START | MODE=cross steps=04 === 
+[2026-06-25 14:53:12] RUN | >>> step 04 : 04_shared.R 
+[2026-06-25 14:53:12] 00 | config loaded. MODE=cross  DISEASE=(both) 
+[2026-06-25 14:53:12] 00 | active diseases: HF, SAR 
+[2026-06-25 14:53:12] 00 | root: /Users/xiawu/Documents/paper_publish/HF×sarcopenia 
+[2026-06-25 14:53:13] 04 | DEG_HF=921 DEG_SAR=610 | shared=59 concordant-core=26 (19 up, 7 down) 
+[2026-06-25 14:53:13] 04 | core in BOTH disease modules: 4/26 
+[2026-06-25 14:53:14] 04 | 04 done. core (concordant) genes -> 06 ML input 
+[2026-06-25 14:53:14] RUN | <<< step 04 OK (1.4s) 
+[2026-06-25 14:53:14] RUN | === run_all DONE === 

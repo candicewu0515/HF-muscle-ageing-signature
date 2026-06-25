@@ -1,0 +1,122 @@
+[
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE8479",
+    "status": "OK",
+    "n_samples": 65,
+    "gpl": "2700",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Resistance Exercise Reverses Aging in Human Skeletal Muscle",
+    "pdat": "2007/07/16",
+    "summary": "Human aging is associated with skeletal muscle atrophy and functional impairment (sarcopenia). Multiple lines of evidence suggest that mitochondrial dysfunction is a major contributor to sarcopenia. We evaluated whether healthy aging was associated with a transcriptional profile reflecting mitochondrial impairment and whether resistance exercise could reverse this signature to that approximating a younger physiological age. Skeletal muscle biopsies from healthy older (N = 25) and younger (N = 26"
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE1428",
+    "status": "OK",
+    "n_samples": 22,
+    "gpl": "96",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Skeletal muscle sarcopenia",
+    "pdat": "2004/08/15",
+    "summary": "This series includes the global gene expression profile of the vastus lateralis muscle for 10 young (19-25 years old) and 12 older (70-80 years old) male subjects. Keywords: other"
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE25941",
+    "status": "OK",
+    "n_samples": 36,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Effects of age on the skeletal muscle transcriptome",
+    "pdat": "2012/02/21",
+    "summary": "Global microarray (HG U133 Plus 2.0) was used to investigate the basal level skeletal muscle transcriptome profile of young and old adults.  One vastus lateralis muscle biopsy was obtained in the basal state from 36 different subjects."
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE9103",
+    "status": "OK",
+    "n_samples": 40,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Skeletal Muscle Transcript Profiles in Trained or Sedentary Young and Old Subjects",
+    "pdat": "2007/11/01",
+    "summary": "Aging  is associated with mitochondrial dysfunction and insulin resistance. We conducted a study to determine the role of long-term vigorous endurance exercise on age-related changes in insulin sensitivity and various indices of mitochondrial functions. Keywords: The effect of excises in young and old human subjects by transcription profiling"
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE38718",
+    "status": "OK",
+    "n_samples": 22,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Sex and aging effect on skeletal muscle transcriptome in humans",
+    "pdat": "2013/02/28",
+    "summary": "The aim of this investigation was to develop a global view of muscle transcriptional differences between older men and women and with aging for each sex."
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE111016",
+    "status": "OK",
+    "n_samples": 40,
+    "gpl": "16791",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by high throughput sequencing",
+    "title": "Study of sarcopenia in human muscle biopsies of elderly individuals, Singapore Sarcopenia Study",
+    "pdat": "2019/11/14",
+    "summary": "Purpose: The main goal of this study is to compare skeletal muscle transcriptome profilings derived from sarcopenic versus healthy subjects. Methods: We use high coverage RNA sequencing of human skeletal muscle biopsies to analyze genome-wide transcriptional changes in human sarcopenia benchmarked to healthy elderly controls. Results: Muscle transcriptomic profiles demonstrate a prominent signature of mitochondrial dysfunction in sarcopenic patients. Conclusions: Our study supports the fundament"
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE167186",
+    "status": "OK",
+    "n_samples": 93,
+    "gpl": "20301;24676",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by high throughput sequencing",
+    "title": "Single-nuclei profiling of aged skeletal muscle",
+    "pdat": "2022/03/31",
+    "summary": "Aging is accompanied by a loss of muscle mass and function, termed sarcopenia, causing numerous morbidities and economic burdens in human populations. Mechanisms implicated in age-related sarcopenia include inflammation, muscle stem cell depletion, mitochondrial dysfunction and loss of motor neurons, but whether there are key drivers of sarcopenia is not yet known. To gain deeper insights into age-related sarcopenia, we performed transcriptome profiling on lower limb muscle biopsies from 72 youn"
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE28392",
+    "status": "OK",
+    "n_samples": 70,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Effects of resistance exercise on the transcriptome in MHC I and MHC IIa muscle fibers of young and old women",
+    "pdat": "2012/02/21",
+    "summary": "Global microarray (HG U133 Plus 2.0) was used for the first time to investigate the effects of resistance exercise on the transcriptome in slow-twitch myosin heavy chain (MHC) I and fast-twitch MHC IIa muscle fibers of young and old women.  Vastus lateralis muscle biopsies were obtained pre and 4hrs post resistance exercise in the beginning (untrained state) and at the end (trained state) of a 12 wk progressive resistance training program."
+  },
+  {
+    "group": "Sarcopenia/aging muscle",
+    "acc": "GSE47881",
+    "status": "OK",
+    "n_samples": 89,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "DERBY BBSRC RET Study: Impact of resistance exercise on human skeletal muscle gene expression",
+    "pdat": "2013/06/12",
+    "summary": "The aim of this work was to produce a molecular signature of human muscle responses to supervised resistance training and examine how such a profile relates to established aerobic exercise adaptation gene networks."
+  },
+  {
+    "group": "RED-LINE",
+    "acc": "GSE56815",
+    "status": "OK",
+    "n_samples": 80,
+    "gpl": "96",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Gene expression study of blood monocytes in pre- and postmenopausal females with low or high bone mineral density (HG-U133A)",
+    "pdat": "2016/06/01",
+    "summary": "Comparison of circulating monocytes from pre- and postmanopausal females with low or high bone mineral density (BMD). Circulating monocytes are progenitors of osteoclasts, and produce factors important to bone metabolism. Results provide insight into the role of monocytes in osteoporosis. We identify osteoporosis genes by microarray analyses of monocytes in high vs. low hip BMD (bone mineral density) subjects."
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE57338",
+    "status": "OK",
+    "n_samples": 313,
+    "gpl": "11532",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "RNA-Seq Identifies Novel Myocardial Gene Expression Signatures of Heart Failure [microarray]",
+    "pdat": "2015/01/01",
+    "summary": "We have utilized the RNA-Seq technology to identify genes with distinct expression patterns between failing and non-failing hearts. In an era of next-generation sequencing studies, our study demonstrates how knowledge gained from a small set of samples with accurately measured gene expressions using RNA-Seq can be leveraged as a complementary strategy to discern the genetics of complex disorders."
+  },
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE5406",
+    "status": "OK",
+    "n_samples": 210,
+    "gpl": "96",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Human ischemic cardiomyopathy, idiopathic cardiomyopathy, and nonfailing controls",
+    "pdat": "2006/09/04",
+    "summary": "Left ventricular myocardium was snap-frozen at time of cardiac transplantation from patients with advanced idiopathic or ischemic cardiomyopathy, or at time of harvest from unused donor heart that serve as a nonfailing control.  No subjects received mechanical support devices. Keywords: disease state analysis (case:control)"
+  },
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE16499",
+    "status": "OK",
+    "n_samples": 30,
+    "gpl": "5175",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Heart Failure Associated Changes in Alternative Splicing of Sarcomere Genes",
+    "pdat": "2010/01/11",
+    "summary": "Alternative mRNA splicing is an important mechanism for regulation of gene expression. Changes in gene expression contribute to the pathogenesis of heart failure. However, changes in mRNA splicing have not been systematically examined in heart disease. We hypothesized that mRNA splicing is changed in diseased hearts.  We used the Affymetrix exon array, which separately measures expression of each "
+  },
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE1145",
+    "status": "OK",
+    "n_samples": 107,
+    "gpl": "8300;570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "changes in cardiac transcription profiles brought about by heart failure",
+    "pdat": "2004/03/24",
+    "summary": "To establish changes in cardiac transcription profiles brought about by heart failure we collected myocardial samples from patients undergoing cardiac transplantation whose failure arises from different etiologies (e.g. idiopathic dilated cardiomyopathy, ischemic cardiomyopathy, alcoholic cardiomyopathy, valvular cardiomyopathy, and hypertrophic cardiomyopathy) and from \"normal\" organ donors whose"
+  },
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE76701",
+    "status": "OK",
+    "n_samples": 8,
+    "gpl": "570",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by array",
+    "title": "Gene expression in ischemic, end-stage failing and non-failing human hearts",
+    "pdat": "2016/02/08",
+    "summary": "A goal of this study was to identify and investigate previously unrecognized components of the remodeling process in the progression to heart failure by comparing gene expression in ischemic, failing (F) to non-failing (NF) hearts.  These results also were compared to the changes observed in a proteomic analysis of F and NF hearts."
+  },
+  {
+    "group": "HF / LV (heart)",
+    "acc": "GSE116250",
+    "status": "OK",
+    "n_samples": 64,
+    "gpl": "16791",
+    "taxon": "Homo sapiens",
+    "gdstype": "Expression profiling by high throughput sequencing",
+    "title": "RNA-seq of heart failure in human left ventricles",
+    "pdat": "2018/11/14",
+    "summary": "The goal of this dataset was to use RNA-seq in human heart tissue to delineate etiology-specific gene expression signatures in heart failure."
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE8479",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Read timed out. (read timeout=30)"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE1428",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE1428%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE25941",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE25941%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE9103",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE9103%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE38718",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE38718%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE111016",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE111016%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "Sarcopenia / aging muscle",
+    "acc": "GSE167186",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE167186%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  },
+  {
+    "group": "RED-LINE (avoid)",
+    "acc": "GSE56815",
+    "status": "ERROR:HTTPSConnectionPool(host='eutils.ncbi.nlm.nih.gov', port=443): Max retries exceeded with url: /entrez/eutils/esearch.fcgi?db=gds&term=GSE56815%5BACCN%5D+AND+gse%5BETYP%5D&retmode=json&email=candicewu0515%40gmail.com (Caused by NameResolutionError(\"HTTPSConnection(host='eutils.ncbi.nlm.nih.gov', port=443): Failed to resolve 'eutils.ncbi.nlm.nih.gov' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+]
