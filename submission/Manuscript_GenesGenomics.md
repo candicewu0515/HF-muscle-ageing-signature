@@ -2,9 +2,11 @@
 
 **Running title:** Shared HF–muscle ageing signature
 
-**Authors:** [Author One]¹, [Author Two]¹ \
-**Affiliations:** ¹[Department, Institution, City, Country] \
-**Corresponding author:** [Name], [Department, Institution, full postal address]; e-mail: candicewu0515@gmail.com; ORCID: [0000-0000-0000-0000]
+**Author:** ‹FULL NAME›
+
+**Affiliation:** ‹Department, Institution, City, Country›
+
+**Corresponding author:** ‹Full Name›, ‹Department, Institution, full postal address›; e-mail: candicewu0515@gmail.com; ORCID: ‹0000-0000-0000-0000›
 
 *Manuscript type: Research Article. Submitted to Genes & Genomics.*
 
@@ -197,9 +199,9 @@ All parameters are fixed in `scripts/00_config.R`; the full pipeline (`scripts/0
 136 non-failing; "heart failure:yes/no"). HF external validation: GSE5406 (Hannenhalli et al. 2006) (194
 failing vs 16 donor). Ageing-muscle discovery: GSE8479 (Melov et al. 2007) (25 old vs 26 young; "Sample
 Group" O vs Y, post-exercise samples excluded). Muscle validation (five cohorts):
-GSE1428 (Giresi et al. 2005) (description Older/Young), and GSE25941, GSE9103, GSE38718, GSE28392
-(GSE25941, GSE9103, GSE38718, GSE28392) (Old/Young; baseline/sedentary samples for the exercise studies). Case =
-failing/old, control = non-failing/young throughout.
+GSE1428 (Giresi et al. 2005; description Older/Young), and GSE25941, GSE9103,
+GSE38718 and GSE28392 (cited by accession; Old/Young, baseline/sedentary samples
+for the exercise studies). Case = failing/old, control = non-failing/young throughout.
 
 **Preprocessing.** Series matrices were obtained from GEO (Barrett et al. 2013) via GEOquery (Davis and Meltzer 2007).
 Expression was log₂-transformed when on a linear scale (GEO2R heuristic), probes mapped to symbols (Affymetrix "gene_assignment"
@@ -258,15 +260,15 @@ immune-cell signatures.
 
 **Funding** No external funding was received for this study.
 
-**Competing interests** The authors declare no competing interests.
+**Competing interests** The author declares no competing interests.
 
 **Ethics approval and consent** Not applicable. This study is a secondary analysis of publicly available, de-identified gene-expression datasets from the NCBI Gene Expression Omnibus; the original studies obtained the relevant ethics approvals and informed consent.
 
 **Data availability** All primary data are publicly available from the NCBI Gene Expression Omnibus: GSE57338, GSE5406, GSE8479, GSE1428, GSE25941, GSE9103, GSE38718, GSE28392 (bulk expression); GSE183852 and GSE167186 and the CZ CELLxGENE Census v2023-12-15 (single-cell). The complete, deterministic analysis pipeline (`scripts/00–17`, `run_all.R`) and intermediate results are publicly available at https://github.com/candicewu0515/HF-muscle-ageing-signature.
 
-**Author contributions** [Author One] conceived and designed the study, performed the analyses and drafted the manuscript. [Author Two] contributed to interpretation and revision. All authors read and approved the final manuscript.
+**Author contributions** The sole author conceived and designed the study, performed all analyses, and wrote and approved the manuscript.
 
-**Acknowledgements** We thank the investigators who generated and deposited the public datasets used here.
+**Acknowledgements** The author thanks the investigators who generated and deposited the public datasets used here.
 
 ---
 
